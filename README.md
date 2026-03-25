@@ -73,8 +73,6 @@ Model	Naive Bayes / Logistic Regression
 
 ---
 
-📂 Project Structure
-
 Spam-Gmail-Classifier/
 │
 ├── dataset/
