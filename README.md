@@ -276,16 +276,6 @@ NLP Knowledge
 Real‑world Problem Solving
 
 
-
----
-
-📸 Screenshots (Optional)
-
-Add screenshots here
-
-
----
-
 📚 References
 
 Scikit-learn Documentation
